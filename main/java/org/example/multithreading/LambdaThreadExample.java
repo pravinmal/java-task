@@ -15,6 +15,7 @@ public class LambdaThreadExample {
 //The lambda expression is passed to a Thread object, and the start method is called to start the thread.
 //The lambda expression is passed to a Thread object, and the start method is called to start the thread.
 
+
 //Common Thread Methods
 //start()
 //Starts the execution of the thread. The run method is called by the Java Virtual Machine (JVM).
