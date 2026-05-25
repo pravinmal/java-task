@@ -9,12 +9,6 @@ public class LambdaThreadExample {
     }
 }
 
-//Explanation:
-//A lambda expression is used to define the Runnable interface's run method.
-//The lambda expression is passed to a Thread object, and the start method is called to start the thread.
-
-
-
 
 //Explanation:
 //A lambda expression is used to define the Runnable interface's run method.
